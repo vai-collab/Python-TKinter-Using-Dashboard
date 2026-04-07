@@ -104,6 +104,8 @@ The objective of this project is to:
 ---
 
 ## 📷 Screenshot
+<img width="1904" height="1065" alt="tk py1" src="https://github.com/user-attachments/assets/022865a1-6cd3-493e-bfa6-923c2d79b1c9" />
+
 
 Example output generated from the project:
 
@@ -117,4 +119,3 @@ Example output generated from the project:
 
 ---
 
-⭐ If you like this project, don't forget to **star the repository**!
